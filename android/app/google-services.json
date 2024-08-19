@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309093324203",
+    "project_id": "asroo-store-83bfd",
+    "storage_bucket": "asroo-store-83bfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309093324203:android:de56425fcf164038376eee",
+        "android_client_info": {
+          "package_name": "com.example.stor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-et7L9v7WiBjDFWOFCOUhns94Kbd9k2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
